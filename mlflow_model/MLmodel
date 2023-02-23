@@ -11,7 +11,7 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.0.2
 mlflow_version: 1.30.0
-model_uuid: 4f746d9051de4086929f33f7c3d8a9bb
+model_uuid: f713b49d32e94f27a7977775f37c96ad
 signature:
   inputs: '[{"name": "AMT_ANNUITY", "type": "double"}, {"name": "AMT_CREDIT", "type":
     "double"}, {"name": "AMT_GOODS_PRICE", "type": "double"}, {"name": "AMT_INCOME_TOTAL",
@@ -132,4 +132,4 @@ signature:
     "long"}, {"name": "WALLSMATERIAL_MODE", "type": "long"}, {"name": "WEEKDAY_APPR_PROCESS_START",
     "type": "long"}, {"name": "index", "type": "long"}]'
   outputs: '[{"name": "TARGET", "type": "double"}]'
-utc_time_created: '2023-02-17 16:12:09.981915'
+utc_time_created: '2023-02-23 10:51:12.428860'
